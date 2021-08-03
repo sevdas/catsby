@@ -1,4 +1,4 @@
-# [Catsby](https://sevdas.github.io/catsby) 🎥:
+# [Catsby](https://sevdas.github.io/catsby/) 🐈:
 
 
 ## User Story
