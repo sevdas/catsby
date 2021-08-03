@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/catsby/static/css/main.ff2d9b40.chunk.css",
+    "main.js": "/catsby/static/js/main.85394f62.chunk.js",
+    "main.js.map": "/catsby/static/js/main.85394f62.chunk.js.map",
+    "runtime-main.js": "/catsby/static/js/runtime-main.c251648b.js",
+    "runtime-main.js.map": "/catsby/static/js/runtime-main.c251648b.js.map",
+    "static/js/2.d08542a3.chunk.js": "/catsby/static/js/2.d08542a3.chunk.js",
+    "static/js/2.d08542a3.chunk.js.map": "/catsby/static/js/2.d08542a3.chunk.js.map",
+    "index.html": "/catsby/index.html",
+    "static/css/main.ff2d9b40.chunk.css.map": "/catsby/static/css/main.ff2d9b40.chunk.css.map",
+    "static/js/2.d08542a3.chunk.js.LICENSE.txt": "/catsby/static/js/2.d08542a3.chunk.js.LICENSE.txt",
+    "static/media/Catsby.9cc0c68e.png": "/catsby/static/media/Catsby.9cc0c68e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c251648b.js",
+    "static/js/2.d08542a3.chunk.js",
+    "static/css/main.ff2d9b40.chunk.css",
+    "static/js/main.85394f62.chunk.js"
+  ]
+}
