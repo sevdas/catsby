@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import { MyContext } from "../Context";
 import Header from "../components/Header";
 
+
 const Cats = () => {
   const { catBreeds } = useContext(MyContext);
   console.log(catBreeds);

@@ -22,6 +22,7 @@ html {
 @media (max-width: 600px) {
   .cat-list {
     flex-wrap: wrap;
+    justify-content: center;
   }
   .cat {
     margin: 0 auto;
