@@ -1,6 +1,24 @@
+# [Catsby](https://sevdas.github.io/catsby) 🎥:
+
+
+## User Story
+
+- Read from the Cat API.
+- Using /breeds endpoint displays: 
+- - A picture of the cat
+- - The name of the breed
+- - Their affection level
+- - Whether or not they have short legs
+
+
+<img width="250" alt="logo" src="https://github.com/sevdas/catsby/blob/main/src/assets/Catsby.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+---
 
 ## Available Scripts
 
